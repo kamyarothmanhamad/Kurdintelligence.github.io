@@ -174,8 +174,8 @@ privacy-policy:
 # constants to be replaced for
 constants:
   greetings: Kurd Intelligence 
-  welcome: Welcome
-  sample: Sample
+  welcome: Bexêrbên bo Kurd Intelligence!
+  # sample: Artificial Intelligence in Kurdish
 
 # for contact form
 contact_form:

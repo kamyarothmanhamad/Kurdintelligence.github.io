@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_What_is_this
-title: "Welcome to Jekyll!"
+title: "Bexêrhatin bo Kurd Intelligence!"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -40,22 +40,20 @@ date: 2022-01-01 10:04:30 +0900
 ---
 <!-- outline-start -->
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.<!-- outline-end --> You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Bexêrhatin bo Kurd Intelligence!
 
-Jekyll also offers powerful support for code snippets:
+Îro rojêkî taybete bo êmey Kurd Intelligence! Ême zor dilxoşîn ke raydegeyenîn malperrî fermî êmeman be serkewtûyî damezrawe û amadeye bo pêşwazîkirdin le êwe.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Em malperre be bekarhenanî Jekyll drust krawe, ke amrazêkî behêze bo drustkirdinî malperrî statîk û blog.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Herweha, êmey Kurd Intelligence şanazî dekey ke têmî Mr. Green-man bekar dehênîn bo dîzaynî malperrekeman. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Le dahatûda, lêreda êwe detwanin çawerrêy babetî zanyarî û têgeyiştinî qûl leser Hûşî Destkird (AI) be zimanî Kurdî bin. Amancî êmeye ke bikeyne pirdêk le nêwan teknolojyay nwê û komelgey Kurdî zimanda.
+
+Hîwadarîn ke lem geşte nwêyeda legel êmeda bimênnewe. Serdanî êmey bikenewe bo nwêtirîn babetî peywest be AI û karîgeriyekanî leser jiyanî rojaneyi êmey Kurd.
+
+Supas bo hawrrêyetîtan!
+
+Tîmî Kurd Intelligence
+

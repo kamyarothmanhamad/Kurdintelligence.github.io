@@ -36,6 +36,29 @@ img: ":about.jpg"
 #published: false
 ---
 
+
+## Derbarey Kurd Intelligence
+
+Bexêr bên bo Kurd Intelligence, serçawey serekeyi naverokî zanyarî û têgeyiştinî Hûşî Destkirdi (AI) be zimanî Kurdî. Amancî êmey pêk hênanî pirdêke le nêwan bwarî xêra geşekirduy AI û komelgey Kurdî ziman, be pêşkeşkirdinî zanyarî berdest û baş ke taka kes, bizines û lêkolerewan bihêz dekat.
+
+### Dîdgay Ême
+
+Le Kurd Intelligence, ême dîdgayekman heye bo dahatiyek ke têyda teknolojyay AI nek tenha diyardeyekî cîhanî bêt, belkû amrazêkî xocêyîş bêt ke detwanêt jiyan û pîşesazî le nawçe Kurdiyekan bigorrêt. Ême pabendin be pêşxistinî têgeyiştinêkî qûltir le AI, bekarhenanî û karîgeriye potansyêliyekanî leser komelga.
+
+### Çî Pêşkeş Dekeyn
+
+- **Wutarî Qûl**: Ême wutarî blaw dekeynewe ke nwêtirîn pêşkewtin le AI dadeposhêt, lewane fêrbûnî maşîn, torî demarî, çareserkirdinî zimanî sirûştî û ziyatir.
+- **Puxteyi Lêkolînewe**: Tîmî ême tiwêjînewe alozekani AI dekat be kurteyek ke asane bo hemû kes têy bigat.
+- **Fêrkarî û Rênwênî**: Çi taze pêgehiştû bît yan şarezay pêşkewtû, fêrkarî û rênwêniyekanî ême yarmetît deden be asanî le cîhanî AI têbigey.
+- **Çawpêkewtin û Têrrwanîn**: Ême çawpêkewtin legel pispor û bîrmendanî AI pêşkeş dekeyn, ke dîdî corawcor leser dahatûy AI dexene rû.
+- **Beşdarî Komelga**: Ême hanî beşdarî çalakî xwêneranman dedeyn le rêgey gotûbêj, forum û projey hawbeş.
+
+### Pabendbûnî Ême
+
+Kurd Intelligence xoy terxan kirduwe bo parastinî berztrîn standardî wurdî, destpakî û peywestî le nawerokekanimanda. Ême hewl dedeyn bibîne serçaweyekî cêy bawerr bo her kesêk ke xwlyay AI heye, le qutabî û mamostayanewe bigre ta pîşewer û xulya lêyan.
+
+Legel êmeda beşdar be lem geşte serincrrakêşe katêk ke hêzî gorankarî AI û tiwanay ew bo druskirdinî dahatiwyekî baştir bo komelgey Kurdî û ziyatir lêk dekolînewe.
+
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
