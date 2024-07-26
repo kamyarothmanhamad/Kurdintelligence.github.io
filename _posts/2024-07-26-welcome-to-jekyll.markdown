@@ -16,7 +16,7 @@ img: ":post_pic3.jpg"
 #comments_disable: true
 
 # publish date
-date: 2024-07-026 10:04:30 +000
+date: 2024-07-26 10:04:30 +000
 
 # seo
 # if not specified, date will be used.
