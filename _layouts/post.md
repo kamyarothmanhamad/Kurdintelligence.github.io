@@ -9,6 +9,14 @@ layout: default
 {%- assign lng = get_lng -%}
 {%- include post_common/post-main.html post = page -%}
 
+<!-- Add button for conversion -->
+<button id="alphabetToggle">Switch to Sorani</button>
+
+<!-- Container for post content -->
+<div id="postContent">
+  {{ content | markdownify }}
+</div>
+
 {%-comment-%} Pagination {%-endcomment-%}
 {% if site.posts.size > 1 -%}
   {% include multi_lng/get-pages-by-lng.liquid pages = site.posts -%}
@@ -25,3 +33,6 @@ layout: default
 %}
   {% include post/comments.html %}
 {% endif %}
+
+<!-- Include the conversion script -->
+<script src="{{ '/assets/js/kurdish-converter.js' | relative_url }}"></script>

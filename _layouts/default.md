@@ -30,6 +30,7 @@ layout: util/compress
   <head>
     {% include default/header/header.html %}
     {% include default/css-include.html %}
+
   </head>
 
   <body {{ default_dark }}>

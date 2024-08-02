@@ -116,6 +116,12 @@ sass:
   # enable css compression
   style: compressed
 
+
+################################
+include:
+  - assets
+
+
 ###########################################################
 # Exclude these files or folders from production site
 ###########################################################
